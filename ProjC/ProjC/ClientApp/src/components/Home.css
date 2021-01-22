@@ -1,0 +1,13 @@
+﻿body, html, .homes {
+    background-image: url("image.jpg");
+    height: 400px;
+    width: 100%;
+    color: white;
+    height: 100%;
+    font-weight: 900;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-size: cover;
+    margin: 0
+}

@@ -1,0 +1,37 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    font-size: 55px;
+}
+
+
+.simpleclass {
+    color: blue;
+    font-size: 18px;
+    border: 1.5px solid black;
+}
+
+.color1 {
+    background-color: rgba(0, 255, 33, 0.3);
+}
+
+.color2 {
+    background-color: rgba(30, 144, 255, 0.3);
+}
+    
+
+html {
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  background-color: rgba(255, 106, 0, 0.3 );
+
+}
